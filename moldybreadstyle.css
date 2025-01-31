@@ -17,7 +17,7 @@ body:before {
 	top: 0;
 	left: 0;
 	z-index: 100;
-	background-image: url('https://64.media.tumblr.com/3f29d14daf3b25b76e2911e372e192dd/c4ece3a7cf404d01-d5/s540x810/b65e0bc9889e47eaa5eb6750fbd9300cd371975c.gif');
+	background-image: url('/https://64.media.tumblr.com/3f29d14daf3b25b76e2911e372e192dd/c4ece3a7cf404d01-d5/s540x810/b65e0bc9889e47eaa5eb6750fbd9300cd371975c.gif');
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center center;
